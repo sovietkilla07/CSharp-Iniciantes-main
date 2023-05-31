@@ -1,0 +1,15 @@
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\bin\Debug\net7.0\Solução_Calculadora.exe
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\bin\Debug\net7.0\Solução_Calculadora.deps.json
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\bin\Debug\net7.0\Solução_Calculadora.runtimeconfig.json
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\bin\Debug\net7.0\Solução_Calculadora.dll
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\bin\Debug\net7.0\Solução_Calculadora.pdb
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\obj\Debug\net7.0\Solução_Calculadora.csproj.AssemblyReference.cache
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\obj\Debug\net7.0\Solução_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\obj\Debug\net7.0\Solução_Calculadora.AssemblyInfoInputs.cache
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\obj\Debug\net7.0\Solução_Calculadora.AssemblyInfo.cs
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\obj\Debug\net7.0\Solução_Calculadora.csproj.CoreCompileInputs.cache
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\obj\Debug\net7.0\Solução_Calculadora.dll
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\obj\Debug\net7.0\refint\Solução_Calculadora.dll
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\obj\Debug\net7.0\Solução_Calculadora.pdb
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\obj\Debug\net7.0\Solução_Calculadora.genruntimeconfig.cache
+D:\Users\User\OneDrive\Área de Trabalho\c#\CSharp-Iniciantes-main\02_Calculadora\Solução_Calculadora\obj\Debug\net7.0\ref\Solução_Calculadora.dll

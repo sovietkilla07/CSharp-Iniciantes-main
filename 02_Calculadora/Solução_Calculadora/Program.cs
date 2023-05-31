@@ -9,6 +9,7 @@ namespace NovaCalculadora
             Menu();
         }
 
+
         public static void Menu()
         {
 
@@ -36,7 +37,7 @@ namespace NovaCalculadora
             switch(opcao)
             {
                 case "1":
-
+                    Somar();
                 break;
 
                 case "2":
@@ -68,10 +69,31 @@ namespace NovaCalculadora
                 Console.Clear();
                 Console.WriteLine("Opção inválida. Por favor, digite outra opção (entre 0 e 6).");
                 Thread.Sleep(5000);
+                Menu();
 
                 break;
             }
 
         }
+
+        public static void Somar()
+        {
+
+            double valor1, valor2;
+
+            Console.WriteLine("Você escolheu a opção Somar!");
+
+            Console.WriteLine("Digite o primeiro valor:");
+            valor1 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o segundo valor:");
+            valor2 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine($"{valor1 + valor2}");
+
+
+        }
     }
 }
+
+//Para sair do console, segure as teclas "Ctrl" e "C" ao mesmo tempo.
