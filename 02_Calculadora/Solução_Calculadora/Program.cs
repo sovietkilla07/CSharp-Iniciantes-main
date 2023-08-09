@@ -41,7 +41,7 @@ namespace NovaCalculadora
                 break;
 
                 case "2":
-
+                    Subtrair();
                 break;
 
                 case "3":
@@ -89,9 +89,24 @@ namespace NovaCalculadora
             Console.WriteLine("Digite o segundo valor:");
             valor2 = double.Parse(Console.ReadLine());
 
-            Console.WriteLine($"{valor1 + valor2}");
+            Console.WriteLine($"{valor1} + {valor2} = {valor1 + valor2}");
 
 
+        }
+
+        public static void Subtrair()
+        {
+            double valor1, valor2;
+
+            Console.WriteLine("Você escolheu a opção Subtrair!");
+
+            Console.WriteLine("Digite o primeiro valor:");
+            valor1 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o segundo valor:");
+            valor2 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine($"{valor1} - {valor2} = {valor1 - valor2}");
         }
     }
 }
